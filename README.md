@@ -1,1 +1,1 @@
-# awstrial
+# AWS Express Trial Deployment : Success...!
