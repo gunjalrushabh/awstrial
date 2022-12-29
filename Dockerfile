@@ -4,4 +4,4 @@ COPY package.json /app
 RUN npm install
 COPY .  /app
 CMD node server.json
-EXPOSE 8095
+EXPOSE 8000
